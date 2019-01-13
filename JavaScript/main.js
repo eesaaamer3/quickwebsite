@@ -1,7 +1,7 @@
 function createJob() {
-	alert("Creating job!");
+	window.location.href = "";
 }
 
 function findJob() {
-	alert("Finding job!");
+	window.location.href ="";
 }
